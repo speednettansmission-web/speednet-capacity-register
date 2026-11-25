@@ -1,0 +1,6 @@
+{
+  "name": "SpeedNet Capacity Register",
+  "description": "Bandwidth and NTTN upgradation, downgradation, temporary capacity, and provider register for SpeedNet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
